@@ -1,2 +1,1 @@
-# v14-discord-bot
-Chasy Kalp Lexuizm
+# Paylaşıp Gittim Tek Komut Var Sg siz Ekleyin
